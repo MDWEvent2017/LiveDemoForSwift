@@ -27,6 +27,11 @@ class ViewController: UIViewController {
         print("first method")
         
     }
+    
+    
+    func fun2() {
+        // func 2
+    }
 
 }
 

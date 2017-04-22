@@ -20,6 +20,13 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    
+    
+    func fun1() {
+        
+        print("first method")
+        
+    }
 
 }
 
